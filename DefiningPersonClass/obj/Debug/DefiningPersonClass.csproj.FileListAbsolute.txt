@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\DefiningPersonClass\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\DefiningPersonClass\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\DefiningPersonClass\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\DefiningPersonClass\obj\Debug\DefiningPersonClass.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\DefiningPersonClass\obj\Debug\DefiningPersonClass.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\DefiningPersonClass\obj\Debug\DefiningPersonClass.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\DefiningPersonClass\obj\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\DefiningPersonClass\obj\Debug\DefiningPersonClass.pdb

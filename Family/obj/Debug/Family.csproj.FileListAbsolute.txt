@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\Family\obj\Debug\Family.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Family\obj\Debug\Family.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Family\bin\Debug\Family.exe.config
+D:\aaa\testt\Objects\Family\bin\Debug\Family.exe
+D:\aaa\testt\Objects\Family\bin\Debug\Family.pdb
+D:\aaa\testt\Objects\Family\obj\Debug\Family.exe
+D:\aaa\testt\Objects\Family\obj\Debug\Family.pdb

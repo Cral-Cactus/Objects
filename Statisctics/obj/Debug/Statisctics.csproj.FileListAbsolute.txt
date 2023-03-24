@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Statisctics\bin\Debug\Statisctics.exe.config
+D:\aaa\testt\Objects\Statisctics\bin\Debug\Statisctics.exe
+D:\aaa\testt\Objects\Statisctics\bin\Debug\Statisctics.pdb
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.exe
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.pdb
