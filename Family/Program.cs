@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DefiningPersonClass;
+using System;
 
 namespace Family
 {

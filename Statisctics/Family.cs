@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DefiningPersonClass;
+using System;
 using System.Collections.Generic;
 
 namespace Statisctics
@@ -9,7 +10,7 @@ namespace Statisctics
 
         public void AddMember(Person person)
         {
-            if (person.age >= 30)
+            if (person.Age >= 30)
             {
                 members.Add(person);
             }
@@ -17,11 +18,11 @@ namespace Statisctics
 
         public void Print()
         {
-            members.Sort((p1, p2) => string.Compare(p1.name, p2.name)); // :)
+            members.Sort((p1, p2) => string.Compare(p1.Name, p2.Name));
 
             foreach (Person member in members)
             {
-                Console.WriteLine($"{member.name} {member.age}");
+                Console.WriteLine($"{member.Name} {member.Age}");
             }
         }
     }

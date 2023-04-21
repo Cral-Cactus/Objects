@@ -1,9 +1,10 @@
-﻿using System;
+﻿using DefiningPersonClass;
+using System;
 using System.Collections.Generic;
 
 namespace Family
 {
-    internal class Family
+    public class Family
     {
         public List<Person> members = new List<Person>();
 
@@ -14,11 +15,9 @@ namespace Family
 
         public void Print()
         {
-            //members.Sort((p1, p2) => string.Compare(p1.name, p2.name)); // :)
-
             foreach (Person member in members)
             {
-                Console.WriteLine($"{member.name} {member.age}");
+                Console.WriteLine($"{member.Name} {member.Age}");
             }
         }
     }

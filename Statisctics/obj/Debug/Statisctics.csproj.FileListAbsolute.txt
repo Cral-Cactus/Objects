@@ -6,3 +6,7 @@ D:\aaa\testt\Objects\Statisctics\bin\Debug\Statisctics.exe
 D:\aaa\testt\Objects\Statisctics\bin\Debug\Statisctics.pdb
 D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.exe
 D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.pdb
+D:\aaa\testt\Objects\Statisctics\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\Statisctics\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\Statisctics\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\Statisctics\obj\Debug\Statisctics.csproj.CopyComplete

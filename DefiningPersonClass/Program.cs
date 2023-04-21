@@ -6,24 +6,9 @@ namespace DefiningPersonClass
     {
         static void Main()
         {
-            Person person1 = new Person
-            {
-
-                Name = "Pesho",
-                Age = 20
-            };
-
-            Person person2 = new Person
-            {
-                Name = "Gosho",
-                Age = 18
-            };
-
-            Person person3 = new Person
-            {
-                Name = "Stamat",
-                Age = 43,
-            };
+            Person person1 = new Person("Pesho", 20);
+            Person person2 = new Person("Gosho", 18);
+            Person person3 = new Person("Stamat", 43);
             
             Console.WriteLine($"{person1.Name} - {person1.Age}");
             Console.WriteLine($"{person2.Name} = {person2.Age}");

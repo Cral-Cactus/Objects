@@ -1,0 +1,12 @@
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\PersonMoney.exe.config
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\PersonMoney.exe
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\PersonMoney.pdb
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\Bank.exe
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\Bank.pdb
+D:\aaa\testt\Objects\PersonMoney\bin\Debug\Bank.exe.config
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.csproj.CopyComplete
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.exe
+D:\aaa\testt\Objects\PersonMoney\obj\Debug\PersonMoney.pdb

@@ -6,3 +6,7 @@ D:\aaa\testt\Objects\Family\bin\Debug\Family.exe
 D:\aaa\testt\Objects\Family\bin\Debug\Family.pdb
 D:\aaa\testt\Objects\Family\obj\Debug\Family.exe
 D:\aaa\testt\Objects\Family\obj\Debug\Family.pdb
+D:\aaa\testt\Objects\Family\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\Family\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\Family\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\Family\obj\Debug\Family.csproj.CopyComplete

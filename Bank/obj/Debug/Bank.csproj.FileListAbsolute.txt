@@ -1,0 +1,12 @@
+D:\aaa\testt\Objects\Bank\bin\Debug\Bank.exe.config
+D:\aaa\testt\Objects\Bank\bin\Debug\Bank.exe
+D:\aaa\testt\Objects\Bank\bin\Debug\Bank.pdb
+D:\aaa\testt\Objects\Bank\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\Bank\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\Bank\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.csproj.CopyComplete
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.exe
+D:\aaa\testt\Objects\Bank\obj\Debug\Bank.pdb

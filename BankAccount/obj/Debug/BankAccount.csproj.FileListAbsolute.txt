@@ -1,0 +1,12 @@
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\BankAccount\bin\Debug\BankAccount.exe.config
+D:\aaa\testt\Objects\BankAccount\bin\Debug\BankAccount.exe
+D:\aaa\testt\Objects\BankAccount\bin\Debug\BankAccount.pdb
+D:\aaa\testt\Objects\BankAccount\bin\Debug\Bank.exe
+D:\aaa\testt\Objects\BankAccount\bin\Debug\Bank.pdb
+D:\aaa\testt\Objects\BankAccount\bin\Debug\Bank.exe.config
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.csproj.CopyComplete
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.exe
+D:\aaa\testt\Objects\BankAccount\obj\Debug\BankAccount.pdb

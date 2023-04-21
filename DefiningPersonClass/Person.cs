@@ -2,7 +2,7 @@
 
 namespace DefiningPersonClass
 {
-    internal class Person
+    public class Person
     {
         private string name;
         private int age;
@@ -30,6 +30,12 @@ namespace DefiningPersonClass
             {
                 this.age = value;
             }
+        }
+
+        public Person(string name, int age)
+        {
+            this.Name = name;
+            this.Age = age;
         }
     }
 }
