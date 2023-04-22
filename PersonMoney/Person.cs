@@ -49,9 +49,9 @@ namespace PersonMoney
 
         public Person(string name, int age)
         {
-            Name = name;
-            Age = age;
-            Accounts = new List<BankAccount>();
+            this.Name = name;
+            this.Age = age;
+            this.Accounts = new List<BankAccount>();
         }
 
         public double GetBalance()

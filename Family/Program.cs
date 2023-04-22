@@ -8,7 +8,7 @@ namespace Family
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
-            Family family = new Family();
+            Familys family = new Familys();
             
             for (int i = 0; i < n; i++)
             {
@@ -19,6 +19,7 @@ namespace Family
                 Person person = new Person(name, age);
                 family.AddMember(person);
             }
+            Console.Clear();
             
             family.Print();
         }

@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Family.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +53,10 @@
     <ProjectReference Include="..\DefiningPersonClass\DefiningPersonClass.csproj">
       <Project>{982492a5-1bfc-4d20-8a06-224a94947801}</Project>
       <Name>DefiningPersonClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Family\Family.csproj">
+      <Project>{f245ea25-905a-47d3-a22a-608058957397}</Project>
+      <Name>Family</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
