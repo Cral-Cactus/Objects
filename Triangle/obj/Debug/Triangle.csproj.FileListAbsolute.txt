@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\Triangle\bin\Debug\Triangle.exe.config
+D:\aaa\testt\Objects\Triangle\bin\Debug\Triangle.exe
+D:\aaa\testt\Objects\Triangle\bin\Debug\Triangle.pdb
+D:\aaa\testt\Objects\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Triangle\obj\Debug\Triangle.exe
+D:\aaa\testt\Objects\Triangle\obj\Debug\Triangle.pdb
