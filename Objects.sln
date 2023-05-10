@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonMoney", "PersonMoney\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{5DE66827-B0F3-4934-916E-6B6FF14442CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{C20C71AE-B71F-4D36-A578-308D7E88CBF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5DE66827-B0F3-4934-916E-6B6FF14442CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE66827-B0F3-4934-916E-6B6FF14442CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE66827-B0F3-4934-916E-6B6FF14442CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20C71AE-B71F-4D36-A578-308D7E88CBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20C71AE-B71F-4D36-A578-308D7E88CBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20C71AE-B71F-4D36-A578-308D7E88CBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20C71AE-B71F-4D36-A578-308D7E88CBF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
