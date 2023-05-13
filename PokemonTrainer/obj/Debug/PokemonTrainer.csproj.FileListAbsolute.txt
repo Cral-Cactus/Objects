@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\PokemonTrainer\obj\Debug\PokemonTrainer.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\PokemonTrainer\obj\Debug\PokemonTrainer.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\PokemonTrainer\obj\Debug\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\PokemonTrainer\bin\Debug\PokemonTrainer.exe.config
+D:\aaa\testt\Objects\PokemonTrainer\bin\Debug\PokemonTrainer.exe
+D:\aaa\testt\Objects\PokemonTrainer\bin\Debug\PokemonTrainer.pdb
+D:\aaa\testt\Objects\PokemonTrainer\obj\Debug\PokemonTrainer.exe
+D:\aaa\testt\Objects\PokemonTrainer\obj\Debug\PokemonTrainer.pdb

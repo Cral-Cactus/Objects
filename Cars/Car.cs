@@ -13,10 +13,50 @@ namespace Cars
 
         string eco;
 
-        public string Brand { get; set; }
-        public string Model { get; set; }
-        public string Color { get; set; }
-        public string CarPlate { get; set; }
+        public string Brand 
+        {
+            get
+            {
+                return this.brand;
+            }
+            set
+            {
+                this.brand = value;
+            }
+        }
+        public string Model 
+        {
+            get
+            {
+                return this.model;
+            }
+            set
+            {
+                this.model = value;
+            }
+        }
+        public string Color 
+        {
+            get
+            {
+                return this.color;
+            }
+            set
+            {
+                this.color = value;
+            }
+        }
+        public string CarPlate 
+        {
+            get
+            {
+                return this.carPlate;
+            }
+            set
+            {
+                this.carPlate = value;
+            }
+        }
         public int ProductionYear
         {
             get

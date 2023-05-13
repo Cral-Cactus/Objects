@@ -15,9 +15,6 @@ namespace BankAccounts
                 string[] input = Console.ReadLine().Split();
                 string command = input[0];
 
-                string name = "";
-                int age = 0;
-
                 int accountId = 0;
                 double amount = 0;
 
@@ -89,7 +86,7 @@ namespace BankAccounts
                 return;
             }
 
-            Console.WriteLine($"Account ID{id}, balance {accounts[id].Balance:F2}");
+            Console.WriteLine(accounts[id].ToString());
         }
     }
 }

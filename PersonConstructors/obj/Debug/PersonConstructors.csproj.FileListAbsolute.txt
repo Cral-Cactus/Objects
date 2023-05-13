@@ -1,0 +1,12 @@
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\PersonConstructors.exe.config
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\PersonConstructors.exe
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\PersonConstructors.pdb
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\PersonConstructors\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.csproj.CopyComplete
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.exe
+D:\aaa\testt\Objects\PersonConstructors\obj\Debug\PersonConstructors.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\Google\bin\Debug\Google.exe.config
+D:\aaa\testt\Objects\Google\bin\Debug\Google.exe
+D:\aaa\testt\Objects\Google\bin\Debug\Google.pdb
+D:\aaa\testt\Objects\Google\obj\Debug\Google.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Google\obj\Debug\Google.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\Google\obj\Debug\Google.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Google\obj\Debug\Google.exe
+D:\aaa\testt\Objects\Google\obj\Debug\Google.pdb

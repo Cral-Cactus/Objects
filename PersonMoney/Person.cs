@@ -48,10 +48,13 @@ namespace PersonMoney
         }
 
         public Person(string name, int age)
+            : this(name, age, new List<BankAccount>()) { }
+
+        public Person(string name, int age, List<BankAccount> accounts)
         {
             this.Name = name;
             this.Age = age;
-            this.Accounts = new List<BankAccount>();
+            this.Accounts = accounts;
         }
 
         public double GetBalance()

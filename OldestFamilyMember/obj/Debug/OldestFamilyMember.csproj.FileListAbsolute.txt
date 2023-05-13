@@ -1,0 +1,12 @@
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe.config
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\OldestFamilyMember.pdb
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\DefiningPersonClass.exe
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\DefiningPersonClass.pdb
+D:\aaa\testt\Objects\OldestFamilyMember\bin\Debug\DefiningPersonClass.exe.config
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.csproj.CopyComplete
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
+D:\aaa\testt\Objects\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb

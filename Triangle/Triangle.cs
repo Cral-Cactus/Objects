@@ -9,20 +9,32 @@ namespace Triangle
 
         public double A
         {
-            get { return a; }
-            set { a = value; }
+            get 
+            { 
+                return a; 
+            }
+            set 
+            { 
+                a = value; 
+            }
         }
 
         public double H
         {
-            get { return h; }
-            set { h = value; }
+            get 
+            { 
+                return h; 
+            }
+            set 
+            { 
+                h = value; 
+            }
         }
 
         public Triangle(double a, double h)
         {
-            this.a = a;
-            this.h = h;
+            this.A = a;
+            this.H = h;
         }
 
         public double GetArea()

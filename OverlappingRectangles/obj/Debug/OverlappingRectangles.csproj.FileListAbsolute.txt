@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\OverlappingRectangles\bin\Debug\OverlappingRectangles.exe.config
+D:\aaa\testt\Objects\OverlappingRectangles\bin\Debug\OverlappingRectangles.exe
+D:\aaa\testt\Objects\OverlappingRectangles\bin\Debug\OverlappingRectangles.pdb
+D:\aaa\testt\Objects\OverlappingRectangles\obj\Debug\OverlappingRectangles.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\OverlappingRectangles\obj\Debug\OverlappingRectangles.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\OverlappingRectangles\obj\Debug\OverlappingRectangles.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\OverlappingRectangles\obj\Debug\OverlappingRectangles.exe
+D:\aaa\testt\Objects\OverlappingRectangles\obj\Debug\OverlappingRectangles.pdb

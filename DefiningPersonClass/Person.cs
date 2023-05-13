@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace DefiningPersonClass
 {
@@ -31,6 +30,16 @@ namespace DefiningPersonClass
             {
                 this.age = value;
             }
+        }
+
+        public Person()
+            : this("No name", 1)
+        {
+        }
+
+        public Person(int age)
+            : this("No name", age)
+        {
         }
 
         public Person(string name, int age)

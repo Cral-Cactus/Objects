@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\CarsSeller\bin\Debug\CarsSeller.exe.config
+D:\aaa\testt\Objects\CarsSeller\bin\Debug\CarsSeller.exe
+D:\aaa\testt\Objects\CarsSeller\bin\Debug\CarsSeller.pdb
+D:\aaa\testt\Objects\CarsSeller\obj\Debug\CarsSeller.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\CarsSeller\obj\Debug\CarsSeller.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\CarsSeller\obj\Debug\CarsSeller.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\CarsSeller\obj\Debug\CarsSeller.exe
+D:\aaa\testt\Objects\CarsSeller\obj\Debug\CarsSeller.pdb

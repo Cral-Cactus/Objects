@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\StaffList\bin\Debug\StaffList.exe.config
+D:\aaa\testt\Objects\StaffList\bin\Debug\StaffList.exe
+D:\aaa\testt\Objects\StaffList\bin\Debug\StaffList.pdb
+D:\aaa\testt\Objects\StaffList\obj\Debug\StaffList.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\StaffList\obj\Debug\StaffList.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\StaffList\obj\Debug\StaffList.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\StaffList\obj\Debug\StaffList.exe
+D:\aaa\testt\Objects\StaffList\obj\Debug\StaffList.pdb

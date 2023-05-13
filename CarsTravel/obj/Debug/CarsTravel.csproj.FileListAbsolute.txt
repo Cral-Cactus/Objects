@@ -1,0 +1,8 @@
+D:\aaa\testt\Objects\CarsTravel\obj\Debug\CarsTravel.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\CarsTravel\obj\Debug\CarsTravel.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Objects\CarsTravel\obj\Debug\CarsTravel.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\CarsTravel\bin\Debug\CarsTravel.exe.config
+D:\aaa\testt\Objects\CarsTravel\bin\Debug\CarsTravel.exe
+D:\aaa\testt\Objects\CarsTravel\bin\Debug\CarsTravel.pdb
+D:\aaa\testt\Objects\CarsTravel\obj\Debug\CarsTravel.exe
+D:\aaa\testt\Objects\CarsTravel\obj\Debug\CarsTravel.pdb

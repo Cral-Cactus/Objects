@@ -51,7 +51,7 @@ namespace Bank
 
         public override string ToString()
         {
-            return $"Account {this.ID}, balance {this.Balance:F2}";
+            return $"Account {this.ID}, Balance {this.Balance:F2}";
         }
 
         public BankAccount(int id)

@@ -11,7 +11,7 @@ namespace Bank
             acc.Deposit(15);
             acc.Withdraw(5);
 
-            Console.WriteLine($"Account {acc.ID}, balance {acc.Balance:F2}");
+            Console.WriteLine(acc.ToString());
         }
     }
 }
