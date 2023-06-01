@@ -73,5 +73,41 @@ namespace PhoneBook
                 }
             }
         }
+
+        public void DisplayEntry(AddressEntry entry)
+        {
+            Console.WriteLine("ID | Name | Address | Phone Number | Rating");
+
+            if (entry != null)
+            {
+                Console.WriteLine($"{entry.ID} | {entry.Name} | {entry.PhoneNumber} | {entry.Address} | {entry.Rating}");
+            }
+        }
+
+        public void SearchById(int id)
+        {
+            foreach (AddressEntry entry in entries)
+            {
+                if (entry != null && entry.ID == id)
+                {
+                    DisplayEntry(entry);
+                    return;
+                }
+            }
+            Console.WriteLine("Person with the specified ID not found.");
+        }
+
+        public void SearchByName(string name)
+        {
+            foreach (AddressEntry entry in entries)
+            {
+                if (entry != null && entry.Name.Equals(name))
+                {
+                    DisplayEntry(entry);
+                    return;
+                }
+            }
+            Console.WriteLine("Person with the specified name not found.");
+        }
     }
 }

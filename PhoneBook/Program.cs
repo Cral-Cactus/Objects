@@ -17,7 +17,8 @@ namespace PhoneBook
                 Console.WriteLine("2. Delete Person");
                 Console.WriteLine("3. Expand Limit");
                 Console.WriteLine("4. Print All");
-                Console.WriteLine("5. Exit");
+                Console.WriteLine("5. Search Person");
+                Console.WriteLine("6. Exit");
                 Console.WriteLine();
 
                 int option = int.Parse(Console.ReadLine());
@@ -57,6 +58,31 @@ namespace PhoneBook
 
                         break;
                     case 5:
+                        Console.WriteLine("Search Menu:");
+                        Console.WriteLine("1. Search By ID");
+                        Console.WriteLine("2. Search By Name");
+
+                        int searchOption = int.Parse(Console.ReadLine());
+
+                        switch (searchOption)
+                        {
+                            case 1:
+                                Console.Write("Input person ID which you want to search: ");
+                                int searchId = int.Parse(Console.ReadLine());
+                                book.SearchById(searchId);
+                                break;
+                            case 2:
+                                Console.Write("Input person name which you want to search: ");
+                                string searchName = Console.ReadLine();
+                                book.SearchByName(searchName);
+                                break;
+                            default:
+                                Console.WriteLine("Invalid Option!");
+                                break;
+                        }
+
+                        break;
+                    case 6:
                         Console.WriteLine("Cya!");
 
                         return;
