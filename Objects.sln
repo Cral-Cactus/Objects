@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google", "Google\Google.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{62A788A1-3FA5-4277-BE39-16860B1A056F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats", "Cats\Cats.csproj", "{ECAB091D-2A71-4609-AADD-A90E2965B0D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{62A788A1-3FA5-4277-BE39-16860B1A056F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62A788A1-3FA5-4277-BE39-16860B1A056F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62A788A1-3FA5-4277-BE39-16860B1A056F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

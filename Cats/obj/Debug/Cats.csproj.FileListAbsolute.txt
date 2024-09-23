@@ -1,0 +1,7 @@
+D:\aaa\testt\Objects\Cats\bin\Debug\Cats.exe.config
+D:\aaa\testt\Objects\Cats\bin\Debug\Cats.exe
+D:\aaa\testt\Objects\Cats\bin\Debug\Cats.pdb
+D:\aaa\testt\Objects\Cats\obj\Debug\Cats.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Cats\obj\Debug\Cats.exe
+D:\aaa\testt\Objects\Cats\obj\Debug\Cats.pdb

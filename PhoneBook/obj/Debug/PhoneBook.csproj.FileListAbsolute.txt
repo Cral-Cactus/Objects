@@ -2,7 +2,6 @@ D:\aaa\testt\Objects\PhoneBook\bin\Debug\PhoneBook.exe.config
 D:\aaa\testt\Objects\PhoneBook\bin\Debug\PhoneBook.exe
 D:\aaa\testt\Objects\PhoneBook\bin\Debug\PhoneBook.pdb
 D:\aaa\testt\Objects\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
-D:\aaa\testt\Objects\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
 D:\aaa\testt\Objects\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
 D:\aaa\testt\Objects\PhoneBook\obj\Debug\PhoneBook.exe
 D:\aaa\testt\Objects\PhoneBook\obj\Debug\PhoneBook.pdb
