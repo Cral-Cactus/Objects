@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\aaa\\testt\\Objects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECAB091D-2A71-4609-AADD-A90E2965B0D6}|Cats\\Cats.csproj|d:\\aaa\\testt\\objects\\cats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECAB091D-2A71-4609-AADD-A90E2965B0D6}|Cats\\Cats.csproj|solutionrelative:cats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|d:\\aaa\\testt\\objects\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECAB091D-2A71-4609-AADD-A90E2965B0D6}|Cats\\Cats.csproj|D:\\aaa\\testt\\Objects\\cats\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECAB091D-2A71-4609-AADD-A90E2965B0D6}|Cats\\Cats.csproj|solutionrelative:cats\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|d:\\aaa\\testt\\objects\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|d:\\aaa\\testt\\objects\\shapes\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}|Shapes\\Shapes.csproj|solutionrelative:shapes\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "D:\\aaa\\testt\\Objects\\Cats\\Cat.cs",
-              "RelativeDocumentMoniker": "Cats\\Cat.cs",
-              "ToolTip": "D:\\aaa\\testt\\Objects\\Cats\\Cat.cs",
-              "RelativeToolTip": "Cats\\Cat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\aaa\\testt\\Objects\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "D:\\aaa\\testt\\Objects\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:11:18.819Z",
+              "WhenOpened": "2024-10-01T15:44:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "D:\\aaa\\testt\\Objects\\Shapes\\IPrint.cs",
+              "RelativeDocumentMoniker": "Shapes\\IPrint.cs",
+              "ToolTip": "D:\\aaa\\testt\\Objects\\Shapes\\IPrint.cs",
+              "RelativeToolTip": "Shapes\\IPrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:01:43.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\aaa\\testt\\Objects\\Cats\\Program.cs",
-              "RelativeDocumentMoniker": "Cats\\Program.cs",
-              "ToolTip": "D:\\aaa\\testt\\Objects\\Cats\\Program.cs",
-              "RelativeToolTip": "Cats\\Program.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAgwF0AAAA7AAAA",
+              "DocumentMoniker": "D:\\aaa\\testt\\Objects\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "D:\\aaa\\testt\\Objects\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwBUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T11:11:06.238Z",
+              "WhenOpened": "2024-10-01T13:55:53.598Z",
               "EditorCaption": ""
             }
           ]

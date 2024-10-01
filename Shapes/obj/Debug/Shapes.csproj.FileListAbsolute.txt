@@ -1,0 +1,7 @@
+D:\aaa\testt\Objects\Shapes\bin\Debug\Shapes.exe.config
+D:\aaa\testt\Objects\Shapes\bin\Debug\Shapes.exe
+D:\aaa\testt\Objects\Shapes\bin\Debug\Shapes.pdb
+D:\aaa\testt\Objects\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+D:\aaa\testt\Objects\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Objects\Shapes\obj\Debug\Shapes.exe
+D:\aaa\testt\Objects\Shapes\obj\Debug\Shapes.pdb

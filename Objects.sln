@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\Phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats", "Cats\Cats.csproj", "{ECAB091D-2A71-4609-AADD-A90E2965B0D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECAB091D-2A71-4609-AADD-A90E2965B0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A6CB9E-CC92-4784-B6B1-CCB0322AEDAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
