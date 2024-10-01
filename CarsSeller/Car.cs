@@ -74,7 +74,7 @@ namespace CarsSeller
                 $"Displacement: {displacementStr}\n" +
                 $"Efficiency: {this.Engine.Efficiency}\n" +
                 $"Weight: {weightStr}\n" +
-                $"Color: {colorStr}";
+                $"Color: {colorStr}!";
         }
     }
 }

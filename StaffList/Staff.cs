@@ -90,7 +90,7 @@ namespace StaffList
 
         public override string ToString()
         {
-            return $"{this.Name} {this.Salary:f2} {this.Email} {this.Age}";
+            return $"{this.Name} have {this.Salary:f2} salaery with {this.Email} email and is {this.Age} years old";
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Cars
             List<Car> cars = new List<Car>();
             string input;
 
-            Console.WriteLine("Enter car details (brand, model, color, license plate, year) separated by commas:\nend=END\n");
+            Console.WriteLine("Enter car details! (brand, model, color, license plate, year) separated by commas:\nend=END\n");
 
             do
             {

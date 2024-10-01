@@ -47,7 +47,7 @@ namespace Cats
             }
         }
 
-        static void AddCat(List<Cat> cats)
+        public static void AddCat(List<Cat> cats)
         {
             Console.Write("name: ");
             string name = Console.ReadLine();
@@ -68,7 +68,7 @@ namespace Cats
             Console.WriteLine("the cat was added!");
         }
 
-        static void PrintAllCats(List<Cat> cats)
+        public static void PrintAllCats(List<Cat> cats)
         {
             if (cats.Count > 0)
             {
@@ -84,7 +84,7 @@ namespace Cats
             }
         }
 
-        static void PrintSpecificCat(List<Cat> cats)
+        public static void PrintSpecificCat(List<Cat> cats)
         {
             if (cats.Count > 0)
             {

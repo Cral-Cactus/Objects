@@ -45,7 +45,7 @@ namespace Triangle
 
         public void PrintTriangleInfo()
         {
-            Console.WriteLine($"SIDE = {this.A} and HEIGHT to IT = {this.H} with FACE = {GetArea()}");
+            Console.WriteLine($"SIDE = {this.A} and HEIGHT to it = {this.H} with FACE = {GetArea()}");
         }
     }
 }

@@ -45,7 +45,7 @@ namespace BankAccounts
         {
             if (accounts.ContainsKey(id))
             {
-                Console.WriteLine("Account already exists");
+                Console.WriteLine("Account already exists!");
                 return;
             }
 

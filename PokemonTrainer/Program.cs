@@ -63,7 +63,7 @@ namespace PokemonTrainer
 
             foreach (var trainer in sortedTrainers)
             {
-                Console.WriteLine($"{trainer.Key} {trainer.Value.Badges} {trainer.Value.Pokemons.Count}");
+                Console.WriteLine($"{trainer.Key} - {trainer.Value.Badges} {trainer.Value.Pokemons.Count}");
             }
         }
     }

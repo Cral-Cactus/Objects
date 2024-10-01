@@ -89,7 +89,7 @@ namespace Shapes
             }
         }
 
-        static bool CreateCircle(List<Shape> shapes)
+        public static bool CreateCircle(List<Shape> shapes)
         {
             Console.WriteLine("circle radius:");
             double radius = double.Parse(Console.ReadLine());
@@ -100,7 +100,7 @@ namespace Shapes
             return true;
         }
 
-        static bool CreateRectangle(List<Shape> shapes)
+        public static bool CreateRectangle(List<Shape> shapes)
         {
             Console.WriteLine("rectangle length:");
             double length = double.Parse(Console.ReadLine());
@@ -114,7 +114,7 @@ namespace Shapes
             return true;
         }
 
-        static bool CreateTriangle(List<Shape> shapes)
+        public static bool CreateTriangle(List<Shape> shapes)
         {
             Console.WriteLine("triangle base length:");
             double triangleBase = double.Parse(Console.ReadLine());
@@ -128,7 +128,7 @@ namespace Shapes
             return true;
         }
 
-        static bool PrintAllShapes(List<Shape> shapes)
+        public static bool PrintAllShapes(List<Shape> shapes)
         {
             Console.WriteLine("shapes:");
             foreach (Shape shape in shapes)
@@ -140,7 +140,7 @@ namespace Shapes
             return true;
         }
 
-        static bool InvalidInput()
+        public static bool InvalidInput()
         {
             Console.WriteLine("invalid");
 

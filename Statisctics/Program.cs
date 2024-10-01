@@ -28,7 +28,7 @@ namespace Statisctics
 
             foreach (Person member in sortedMembers)
             {
-                Console.WriteLine($"{member.Name} - {member.Age}");
+                Console.WriteLine($"{member.Name} is {member.Age} years old");
             }
         }
     }
